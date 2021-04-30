@@ -10,9 +10,11 @@ Then you can see all the available seats that you can book from.
 
 - git clone https://github.com/hamdymagdy26/booking.git
 
+- create .env file with your database configurations.
+
 - run composer install.
 
-- create a database, for examlpe : booking
+- create a database in your phpmyadmin, for examlpe : booking
 
 - run php artisan migrate
 
